@@ -1,0 +1,14 @@
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\bin\Debug\netcoreapp3.1\Labb3VidareUtveckla.exe
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\bin\Debug\netcoreapp3.1\Labb3VidareUtveckla.deps.json
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\bin\Debug\netcoreapp3.1\Labb3VidareUtveckla.runtimeconfig.json
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\bin\Debug\netcoreapp3.1\Labb3VidareUtveckla.runtimeconfig.dev.json
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\bin\Debug\netcoreapp3.1\Labb3VidareUtveckla.dll
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\bin\Debug\netcoreapp3.1\Labb3VidareUtveckla.pdb
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\obj\Debug\netcoreapp3.1\Labb3VidareUtveckla.csproj.AssemblyReference.cache
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\obj\Debug\netcoreapp3.1\Labb3VidareUtveckla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\obj\Debug\netcoreapp3.1\Labb3VidareUtveckla.AssemblyInfoInputs.cache
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\obj\Debug\netcoreapp3.1\Labb3VidareUtveckla.AssemblyInfo.cs
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\obj\Debug\netcoreapp3.1\Labb3VidareUtveckla.csproj.CoreCompileInputs.cache
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\obj\Debug\netcoreapp3.1\Labb3VidareUtveckla.dll
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\obj\Debug\netcoreapp3.1\Labb3VidareUtveckla.pdb
+C:\Users\sjobe\source\repos\Labb3VidareUtveckla\Labb3VidareUtveckla\obj\Debug\netcoreapp3.1\Labb3VidareUtveckla.genruntimeconfig.cache
